@@ -4,7 +4,7 @@
  * @desc 汉字转拼音 (仅支持utf8汉字转换拼音，支持包含字母和数组。可以更换带注音的拼音库)
  * @author 张顺(zhangshun@baidu.com)
  */
-
+111111
 include 'ChinesePinyin.php';
 class Pinyin_Pinyin {
     /**
